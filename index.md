@@ -10,7 +10,7 @@ This page presents selected work experience and skills related to web content ma
 
 ## Web Content & Site Management Experience
 
-I work daily in WordPress and occasionally in other platforms like Joomla and Shopify. My Joomla work now focuses mainly on migrating sites into WordPress for better maintainability. For Shopify, I handle integration with WordPress and store migrations to WooCommerce.
+I work daily in WordPress and occasionally in other platforms like Joomla and Shopify. My Joomla work focuses mainly on migrating sites into WordPress for its wider theme options, stronger plugin support, and more active development. For Shopify, I handle integration with WordPress and store migrations to WooCommerce.
 
 In WordPress, I work with a wide variety of themes, page builders, plugins, and third-party tools to support flexible layouts, structured content, and advanced functionality. I also customize themes and plugins, and build custom plugins as needed.
 
