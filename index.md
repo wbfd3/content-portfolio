@@ -17,7 +17,7 @@ In WordPress, I work with a wide variety of themes, page builders, plugins, and 
 ### Examples of Work
 
 - **Event & Calendar Management**  
-  Configured and customized event/class calendars for <a href="https://visitwilsoncounty.com/events/" target="_blank" rel="noopener">Visit Wilson County</a>, [**Visit Wilson County**](https://visitwilsoncounty.com/), and [**Sunshine Weaving**](https://sunshineweaving.com/product-category/class/).
+  Configured and customized event/class calendars for <a href="https://lebanonwilsonchamber.com/events/" target="_blank" rel="noopener">Lebanon Wilson Chamber</a>, [**Visit Wilson County**](https://visitwilsoncounty.com/), and [**Sunshine Weaving**](https://sunshineweaving.com/product-category/class/).
 
 - **End-to-End Site Builds**  
   Designed and developed solo projects including [**Care We Are**](https://careweare.com) and [**Elrod Stud Welding**](https://elrodstudwelding.com) with custom layout and functionality.
