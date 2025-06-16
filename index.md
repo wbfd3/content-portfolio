@@ -17,16 +17,16 @@ In WordPress, I work with a wide variety of themes, page builders, plugins, and 
 ### Examples of Work
 
 - **Event & Calendar Management**  
-  Configured and customized event/class calendars for <a href="https://lebanonwilsonchamber.com/events/" target="_blank" rel="noopener">Lebanon Wilson Chamber</a>, [**Visit Wilson County**](https://visitwilsoncounty.com/), and [**Sunshine Weaving**](https://sunshineweaving.com/product-category/class/).
+  Configured and customized event/class calendars for <a href="https://lebanonwilsonchamber.com/events/" target="_blank" rel="noopener"><strong>Lebanon Wilson Chamber</strong></a>, <a href="https://visitwilsoncounty.com/" target="_blank" rel="noopener"><strong>Visit Wilson County</strong></a>, and <a href="https://sunshineweaving.com/product-category/class/" target="_blank" rel="noopener"><strong>Sunshine Weaving</strong></a>.
 
 - **End-to-End Site Builds**  
-  Designed and developed solo projects including [**Care We Are**](https://careweare.com) and [**Elrod Stud Welding**](https://elrodstudwelding.com) with custom layout and functionality.
+  Designed and developed solo projects including <a href="https://careweare.com" target="_blank" rel="noopener"><strong>Care We Are</strong></a> and <a href="https://elrodstudwelding.com" target="_blank" rel="noopener"><strong>Elrod Stud Welding</strong></a> with custom layout and functionality.
 
 - **Custom Development**  
-  Extended builder capabilities and developed or modified plugins for [**PhilPrint**](https://philprint.com), [**First Freedom Bank**](https://firstfreedombank.com), [**Mid-South Color Labs**](https://midsouthcolor.com/), and [**Plann Well**](https://plannwell.com/) to meet specific business and usability needs.
+  Extended builder capabilities and developed or modified plugins for <a href="https://philprint.com" target="_blank" rel="noopener"><strong>PhilPrint</strong></a>, <a href="https://firstfreedombank.com" target="_blank" rel="noopener"><strong>First Freedom Bank</strong></a>, <a href="https://midsouthcolor.com/" target="_blank" rel="noopener"><strong>Mid-South Color Labs</strong></a>, and <a href="https://plannwell.com/" target="_blank" rel="noopener"><strong>Plann Well</strong></a> to meet specific business and usability needs.
 
 - **Platform Migrations**  
-  Migrated sites from Joomla to WordPress for [**UCEMC**](https://ucemc.com) and [**CedarStone Bank**](https://cedarstonebank.com), involving content restructuring, theme redevelopment, and SEO preservation.
+  Migrated sites from Joomla to WordPress for <a href="https://ucemc.com" target="_blank" rel="noopener noreferrer"><strong>UCEMC</strong></a> and <a href="https://cedarstonebank.com" target="_blank" rel="noopener noreferrer"><strong>CedarStone Bank</strong></a>, involving content restructuring, theme redevelopment, and SEO preservation.
 
 
 This range of work reflects both my ability to manage routine content workflows and my flexibility to work effectively across a wide range of platforms and technical environments.
