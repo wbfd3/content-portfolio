@@ -4,7 +4,7 @@ title: Digital Content Specialist Submission
 
 # Digital Content Specialist Submission
 
-This page presents selected work experience and skills related to web content management and email marketing. It was created as part of an application for a Digital Content Specialist role. The content is tailored to highlight relevant technical and strategic capabilities in content systems, campaign support, and analytics.
+This page highlights web content and email marketing experience for a Digital Content Specialist role, focusing on relevant technical and strategic skills.
 
 ---
 
@@ -17,19 +17,19 @@ In WordPress, I work with a wide variety of themes, page builders, plugins, and 
 ### Examples of Work
 
 - **Event & Calendar Management**  
-  Configured and customized event/class calendars for <a href="https://lebanonwilsonchamber.com/events/" target="_blank" rel="noopener"><strong>Lebanon Wilson Chamber</strong></a>, <a href="https://visitwilsoncounty.com/" target="_blank" rel="noopener"><strong>Visit Wilson County</strong></a>, and <a href="https://sunshineweaving.com/product-category/class/" target="_blank" rel="noopener"><strong>Sunshine Weaving</strong></a>.
+  Configured and customized event/class calendars for <a href="https://lebanonwilsonchamber.com/events/" target="_blank" rel="noopener"><strong>Lebanon Wilson Chamber</strong></a>, <a href="https://visitwilsoncounty.com/" target="_blank" rel="noopener"><strong>Visit Wilson County</strong></a>, and <a href="https://sunshineweaving.com/calendar/" target="_blank" rel="noopener"><strong>Sunshine Weaving</strong></a>.
 
 - **End-to-End Site Builds**  
-  Designed and developed solo projects including <a href="https://careweare.com" target="_blank" rel="noopener"><strong>Care We Are</strong></a> and <a href="https://elrodstudwelding.com" target="_blank" rel="noopener"><strong>Elrod Stud Welding</strong></a> with custom layout and functionality.
+  Designed and developed solo projects including <a href="https://careweare.com" target="_blank" rel="noopener"><strong>Care We Are</strong></a> (including targeted keyword research and on-page SEO optimization using Semrush and Yoast SEO) and <a href="https://elrodstudwelding.com" target="_blank" rel="noopener"><strong>Elrod Stud Welding</strong></a>.
 
 - **Custom Development**  
-  Extended builder capabilities and developed or modified plugins for <a href="https://philprint.com" target="_blank" rel="noopener"><strong>PhilPrint</strong></a>, <a href="https://firstfreedombank.com" target="_blank" rel="noopener"><strong>First Freedom Bank</strong></a>, <a href="https://midsouthcolor.com/" target="_blank" rel="noopener"><strong>Mid-South Color Labs</strong></a>, and <a href="https://plannwell.com/" target="_blank" rel="noopener"><strong>Plann Well</strong></a> to meet specific business and usability needs.
+  Extended design and functionality through custom themes and plugins for sites such as <a href="https://philprint.com" target="_blank" rel="noopener"><strong>PhilPrint</strong></a>, <a href="https://firstfreedombank.com" target="_blank" rel="noopener"><strong>First Freedom Bank</strong></a>, <a href="https://midsouthcolor.com/" target="_blank" rel="noopener"><strong>Mid-South Color Labs</strong></a>, and <a href="https://plannwell.com/" target="_blank" rel="noopener"><strong>Plann Well</strong></a> to meet specific business and usability needs.
 
 - **Platform Migrations**  
   Migrated sites from Joomla to WordPress for <a href="https://ucemc.com" target="_blank" rel="noopener noreferrer"><strong>UCEMC</strong></a> and <a href="https://cedarstonebank.com" target="_blank" rel="noopener noreferrer"><strong>CedarStone Bank</strong></a>, involving content restructuring, theme redevelopment, and SEO preservation.
 
 
-This range of work reflects both my ability to manage routine content workflows and my flexibility to work effectively across a wide range of platforms and technical environments.
+I’m comfortable working with any platform and always ready to learn something new when the job calls for it.
 
 ---
 
