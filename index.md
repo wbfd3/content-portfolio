@@ -6,41 +6,6 @@ title: Digital Content Specialist Submission
 
 This page highlights web content and email marketing experience for a Digital Content Specialist role, focusing on relevant technical and strategic skills.
 
-I’ve included a real-world example of how I can support the YMCA’s goal of effective online communication with the community — a UX improvement that can be applied to the news pages of the website.
-
----
-
-<h2>YMCA Locations Sidebar UX Fix</h2>
-<p>
-  During my interview preparation, I identified and tested a layout improvement for the
-  <a href="https://www.ymcamidtn.org/news/what-we-mean-when-we-say-we-are-open" target="_blank">
-    YMCA of Middle Tennessee website
-  </a>.
-  The issue appeared in the sidebar of that news page, where location links are wrapped incorrectly. I traced the styles to
-  the <code>_news.scss</code> file, specifically the
-  <code>.arrow-list a</code> CSS selector. By updating <code>display: inline-block</code> to <code>display: block</code>,
-  and later adding <code>white-space: nowrap</code>, I improved both the layout and readability.
-</p>
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="/assets/locations-before.png" alt="Original location wrapping issue" style="max-width: 300px; border: 1px solid #ccc;">
-    <p>Original layout – wrapping issue</p>
-  </div>
-
-  <div style="flex: 1 1 300px; text-align: center; max-width: 300px;">
-    <img src="/assets/locations-block.png" alt="Fixed with block display" style="max-width: 300px; border: 1px solid #ccc;">
-    <p>Using <code>display: block</code> to fix vertical flow</p>
-  </div>
-
-  <div style="flex: 1 1 300px; text-align: center; max-width: 300px;">
-    <img src="/assets/locations-nowrap.png" alt="Improved with nowrap" style="max-width: 300px; border: 1px solid #ccc;">
-    <p>Adding <code>white-space: nowrap</code> to prevent awkward breaks</p>
-  </div>
-
-</div>
-
 
 ---
 
